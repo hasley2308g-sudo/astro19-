@@ -1,2 +1,2 @@
-# astro19-
-journal 1
+astor 19 
+journal 
